@@ -1,5 +1,5 @@
-# WebpackStarter
-## Configuración inicial básica para proyectos con WebPack
+# ViteStarter
+## Configuración inicial básica para proyectos con vite
 
 Este es el proyecto inicial para crear 
 aplicaicones utilizando vite.
@@ -12,7 +12,7 @@ npm install
 
 Para ejecutar el sitio en local:
 ```
-npm run start
+npm run dev
 ```
 
 Y para construir el build, recuerde:
