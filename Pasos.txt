@@ -1,0 +1,40 @@
+Para inciar ejecutar los siguientes comandos
+
+1. ingresar a la carpeta base donde se creará el proyecto
+    > cd "ruta"
+
+2. confirmar instalación de node.js mayor o igual a 8
+    > node --version
+
+3. confirmar versión de NPM, mayor o igual a 3
+    > npm --version
+
+4. instalar el paquete vite
+    > npm create vite
+
+5. confirmar la instalación de vite si lo pide
+    > y
+
+6. ingresar el nombre del proyecto
+    > nombre del proyecto
+
+7. seleccionar el framwework de vite
+    >vanilla (vite para un proyecto de js sin framwework como vue, react...)
+
+8. seleccionar la variante
+    >JavaScript o TypeScript
+
+9. seguir los pasos que indica
+    > cd "nombre de proyecto / ubicación"
+    //instala los modulos de node
+    > npm install
+    //levanta el proyecto en local
+    > npm run dev
+
+10. cambiar en el index.html el path de main.js" a ./main.js
+
+11. para generar el build de producción con 
+    > npm run build
+
+12. vite usa la carpeta public para los archivos publicos, entre ellos los de recursos
+
